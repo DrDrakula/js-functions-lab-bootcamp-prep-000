@@ -1,5 +1,3 @@
-function happyHolidaysto(name) {
-  return "happy holidays " + name
+function HappyHolidays() {
+  return"Happy Holidays"
 }
-
-console.log(happyHolidaysto("Nemanja"))
